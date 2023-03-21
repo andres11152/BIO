@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
 
-- 💬 Ask me about **Html,Css,Javascript,Node.js,Java SE,MySQL**
+- 💬 Ask me about **Html, Css, Javascript, Node.js, Java SE, MySQL**
 
 - 📫 How to reach me **Andres11152@gmail.com**
 
