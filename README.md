@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres11152" alt="andres11152" /></a> </p>
 
-- 🔭 I am currently working on personal projects **ATM software in java**
+- 🔭 I am currently working on personal projects **ATM**
 
 - 🌱 I’m currently learning **Data Science - OCI**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
 
-- 💬 Ask me about **Html, Css, Javascript, Node.js, Java SE, MySQL**
+- 💬 Ask me about **Html,Css,Javascript,Node.js,Java SE,MySQL**
 
 - 📫 How to reach me **Andres11152@gmail.com**
 
