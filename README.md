@@ -7,7 +7,7 @@
 
 - 🔭 I am currently working on personal projects **ATM**
 
-- 🌱 I’m currently learning **Data Science - OCI**
+- 🌱 I’m currently learning **Spring - Data Science - OCI**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
 
