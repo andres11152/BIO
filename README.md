@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'M ANDRES BETANCOURT</h1>
-<h3 align="center">A passionate frontend - backend developer from Colombia</h3>
+<h3 align="center">A passionate Backend developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andres11152&label=Profile%20views&color=0e75b6&style=flat" alt="andres11152" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I am currently working on personal projects
 
-- 🌱 I’m currently learning **Spring - Data Science - OCI**
+- 🌱 I’m currently learning **Spring - Spring-Boot**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
 
