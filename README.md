@@ -1,4 +1,5 @@
-<ʜ1 ᴀʟɪɢɴ="ᴄᴇɴᴛᴇʀ">¡ʜᴏʟᴀ! 👋, sᴏʏ ᴀɴᴅʀés ʙᴇᴛᴀɴᴄᴏᴜʀᴛ</ʜ1><ʜ3 ᴀʟɪɢɴ="ᴄᴇɴᴛᴇʀ">ᴜɴ ᴀᴘᴀsɪᴏɴᴀᴅᴏ ᴅᴇsᴀʀʀᴏʟʟᴀᴅᴏʀ ʙᴀᴄᴋ-ᴇɴᴅ ᴅᴇ ᴄᴏʟᴏᴍʙɪᴀ</ʜ3>
+<h1 align="center">¡ʜᴏʟᴀ! 👋, sᴏʏ ᴀɴᴅʀes ʙᴇᴛᴀɴᴄᴏᴜʀᴛ</h1>
+<h3 align="center">Un apasionado desarrollador back-end de Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andres11152&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="andres11152" /> </p>
 
