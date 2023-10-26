@@ -1,5 +1,4 @@
-<h1 align="center">¡Hola! 👋, Soy Andrés Betancourt</h1>
-<h3 align="center">Un apasionado desarrollador back-end de Colombia</h3>
+<ʜ1 ᴀʟɪɢɴ="ᴄᴇɴᴛᴇʀ">¡ʜᴏʟᴀ! 👋, sᴏʏ ᴀɴᴅʀés ʙᴇᴛᴀɴᴄᴏᴜʀᴛ</ʜ1><ʜ3 ᴀʟɪɢɴ="ᴄᴇɴᴛᴇʀ">ᴜɴ ᴀᴘᴀsɪᴏɴᴀᴅᴏ ᴅᴇsᴀʀʀᴏʟʟᴀᴅᴏʀ ʙᴀᴄᴋ-ᴇɴᴅ ᴅᴇ ᴄᴏʟᴏᴍʙɪᴀ</ʜ3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andres11152&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="andres11152" /> </p>
 
@@ -7,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en proyectos personales
 
-- 🌱 Actualmente estoy aprendiendo **Spring - Spring-Boot**
+- 🌱 Actualmente estoy aprendiendo **Spring-Boot**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
 
