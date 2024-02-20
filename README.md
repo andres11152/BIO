@@ -7,8 +7,6 @@
 
 - 🔭 Actualmente estoy trabajando en proyectos personales
 
-- 🌱 Actualmente estoy aprendiendo **Spring-Boot**
-
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
 
 - 💬 Pregúntame sobre **Html, Css, Javascript, Java, Spring-Boot y MySQL**
