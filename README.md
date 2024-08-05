@@ -9,13 +9,13 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
 
-- 💬 Pregúntame sobre **Html, Css, Javascript, Java, Spring-Boot y MySQL**
+- 💬 Pregúntame sobre **Javascript, Node.js, React, Angular, Java, Spring-Boot, MySQL Y PostgreSQL**
 
 - 📫 Cómo contactarme **Andres11152@gmail.com**
 
 - 📄 Conoce mis experiencias [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
 
-- ⚡ Dato curioso **Me gusta estar constantemente aprendiendo y haciendo ejercicio**
+- ⚡ Dato curioso **Me gusta estar constante aprendizaje**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
