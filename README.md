@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres11152" alt="andres11152" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en proyectos personales
+- 🔭 Actualmente estoy trabajando en proyector de mi agencia
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
 
