@@ -18,7 +18,7 @@
 - 🔭 **Current Focus:** Liderando la arquitectura e implementación de software enterprise en mi agencia, integrando **Modelos de Lenguaje Locales (LLM Agents via Ollama / Qwen)** y pipelines de automatización avanzada.
 - 🏗️ **Enterprise Software Engineering:** Experiencia diseñando e implementando plataformas complejas de alta disponibilidad:
   * **Omnichannel CRM Architectures:** Orquestación de flujos de comunicación masiva y bots omnicanal (WhatsApp Business API / Workflows automatizados complejos).
-  * **Private Travel Management Systems:** Software a medida para logística, reservas y gestión operativa de transporte privado para empresas.
+  * **Private Travel Management Systems:** Software a medida para logística, reservas y gestión operativa de transporte privado.
   * **E-Commerce & ERP Integration Platforms:** Sincronización transaccional de alto tráfico entre módulos contables, inventario y motores de comercio electrónico.
 - ☁️ **Cloud Infrastructure & DevOps:** Despliegue, contenedorización y administración de infraestructura VPS (Ubuntu Linux, Contabo, AWS S3 Buckets, Railway) mediante **Docker Multi-Container Orchestration**, garantizando tolerancia a fallos y costos optimizados.
 - ⚡ **Full-Stack Stack Mastery:** Desarrollo End-to-End optimizado con **Next.js (App Router), NestJS, Node.js/Express, TypeScript, PostgreSQL (Prisma ORM)** y bases NoSQL (**MongoDB**).
