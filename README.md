@@ -1,63 +1,58 @@
-<h1 align="center">¡ʜᴏʟᴀ! 👋, sᴏʏ ᴀɴᴅʀᴇs ʙᴇᴛᴀɴᴄᴏᴜʀᴛ</h1>
-<h3 align="center">Un apasionado desarrollador back-end de Colombia</h3>
+<h1 align="center">👋 Hola, soy Andrés Betancourt</h1>
+<h3 align="center">Senior Full-Stack Engineer & AI Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andres11152&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="andres11152" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres11152" alt="andres11152" /></a> </p>
-
-- 🔭 Actualmente estoy trabajando en proyector de mi agencia
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
-
-- 💬 Pregúntame sobre **Javascript, Node.js, Angular, MySQL Y PostgreSQL**
-
-- 📫 Cómo contactarme **Andres11152@gmail.com**
-
-- 📄 Conoce mis experiencias [https://portafolio-btc.netlify.app/](https://portafolio-btc.netlify.app/)
-
-- ⚡ Dato curioso **Me gusta estar constante aprendizaje**
-
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andresbetancourto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andresbetancourto/" height="30" width="40" /></a>
-<a href="https://codepen.io/andres11152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="andres11152" height="30" width="40" /></a>
-
-
+<p align="center">
+  <em>Especializado en arquitecturas web de alto rendimiento, sistemas escalables y agentes/modelos de IA.</em>
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/andresbetancourto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Andres11152@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://portafolio-btc.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+---
 
+### 🚀 Sobre mí
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres11152&show_icons=true&locale=en&layout=compact" alt="andres11152" /></p>
+- 🔭 **Actualmente:** Construyendo soluciones para mi agencia de software y explorando integración de **LLMs locales** (Ollama / Qwen) con workflows de desarrollo.
+- ⚡ **Enfoque Principal:** Desarrollo Full-Stack End-to-End con **Next.js (App Router)**, **NestJS**, **TypeScript** y bases de datos relacionales/Caches (**PostgreSQL / Redis**).
+- 💬 **Pregúntame sobre:** Arquitectura de software, optimización de rendimiento, diseño de APIs con NestJS, State Management y componentes avanzados con Framer Motion.
+- 📫 **Contacto:** [Andres11152@gmail.com](mailto:Andres11152@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andres11152&show_icons=true&locale=en" alt="andres11152" /></p>
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+#### **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+#### **Backend & Databases**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+#### **DevOps, Tooling & AI**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_LLMs-000000?style=flat-square&logo=ollama&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=andres11152&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Andrés Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres11152&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Idiomas más usados" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andres11152&label=Profile%20Views&color=0077B5&style=flat-square" alt="Visitas al perfil" />
+</p>
